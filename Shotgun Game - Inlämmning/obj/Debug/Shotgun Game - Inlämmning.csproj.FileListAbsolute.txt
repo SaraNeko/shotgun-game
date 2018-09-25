@@ -1,0 +1,10 @@
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\bin\Debug\Shotgun Game - Inlämmning.exe.config
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\bin\Debug\Shotgun Game - Inlämmning.exe
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\bin\Debug\Shotgun Game - Inlämmning.pdb
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun Game - Inlämmning.csprojAssemblyReference.cache
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun_Game___Inlämmning.Form1.resources
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun_Game___Inlämmning.Properties.Resources.resources
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun Game - Inlämmning.csproj.GenerateResource.cache
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun Game - Inlämmning.csproj.CoreCompileInputs.cache
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun Game - Inlämmning.exe
+E:\Users\Sara\source\repos\Shotgun Game - Inlämmning\Shotgun Game - Inlämmning\obj\Debug\Shotgun Game - Inlämmning.pdb

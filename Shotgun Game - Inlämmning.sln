@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shotgun Game - Inlämmning", "Shotgun Game - Inlämmning\Shotgun Game - Inlämmning.csproj", "{649561BA-29DF-47BD-B829-DC6EA68E859D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649561BA-29DF-47BD-B829-DC6EA68E859D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649561BA-29DF-47BD-B829-DC6EA68E859D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649561BA-29DF-47BD-B829-DC6EA68E859D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649561BA-29DF-47BD-B829-DC6EA68E859D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700B3BE0-C3D5-44C2-BC9F-F15EC9FE9D12}
+	EndGlobalSection
+EndGlobal
